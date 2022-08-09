@@ -11,7 +11,7 @@ Slot_ID(string)	Agrar_town_x0020__x0028__x003F__x0029_(boolean)	Industrial_town_
 "gold"	false	false	false	true
 "india_highlands"	false	false	false	true
 "iron"	false	false	false	true
-"port"	false	false	true	false
+"port"	false	true	true	false
 "rice"	true	false	false	true
 "settlement"	false	false	false	false
 "settlement_army-admin"	false	false	false	false
