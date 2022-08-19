@@ -56,8 +56,8 @@ Key(string)	Value(float)
 "melee_xholds_stepback_4"	270
 "misfire_cannon_flintlock"	0.01
 "misfire_cannon_matchlock"	0.02
-"misfire_musket_flintlock"	0
-"misfire_musket_matchlock"	0
+"misfire_musket_flintlock"	0.12
+"misfire_musket_matchlock"	0.16
 "misfire_musket_percussion_cap"	0.06
 "missile_cover_factor_excellent"	16
 "missile_cover_factor_good"	12
