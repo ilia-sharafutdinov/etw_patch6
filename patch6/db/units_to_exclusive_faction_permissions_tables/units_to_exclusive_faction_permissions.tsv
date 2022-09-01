@@ -109,8 +109,6 @@ Unit_IDRef(string)	Faction_IDRef(string)	Availability(boolean)
 "6th_rate_american"	"united_states"	true
 "6th_rate_british"	"britain"	true
 "6th_rate_french"	"france"	true
-"6th_rate_russian"	"crimean_khanate"	false
-"6th_rate_russian"	"poland_lithuania"	false
 "6th_rate_russian"	"russia"	true
 "6th_rate_spanish"	"spain"	true
 "9_lber_land_cannon_(saker)"	"crimean_khanate"	false
@@ -426,7 +424,7 @@ Unit_IDRef(string)	Faction_IDRef(string)	Availability(boolean)
 "over_1st_rate_american"	"united_states"	true
 "over_1st_rate_british"	"britain"	true
 "over_1st_rate_french"	"france"	true
-"over_1st_rate_russian"	"crimean_khanate"	false
+"over_1st_rate_russian"	"russia"	true
 "over_1st_rate_spanish"	"spain"	true
 "pandours"	"crimean_khanate"	false
 "pirates"	"pirates"	true
@@ -434,8 +432,8 @@ Unit_IDRef(string)	Faction_IDRef(string)	Availability(boolean)
 "prussian_grenadiers"	"prussia"	true
 "prussian_life_guard"	"prussia"	true
 "puckle_gun"	"crimean_khanate"	false
+"razee"	"britain"	false
 "razee"	"crimean_khanate"	false
-"razee"	"portugal"	true
 "razee_british"	"britain"	true
 "revolutionary_guard"	"france"	true
 "revolutionary_infantry"	"france"	true
